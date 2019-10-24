@@ -7,10 +7,12 @@
 ## Citing an Entire Web Site
 * **Author or compiler name. Name of Site. Version Number (if available), Name of institution/organization affiliated with the site (sponsor or publisher), date of resouirce creation (if available), DOI (preffered otherwise include a URL or permalink). Date of Access (if applicable).**
 * *The Purdue OWL Family of Sites. The Writing Lab and OWL at Purdue and Purdue U, 2008, owl.english.purdue.edu/owl. Accessed 23 Apr. 2008.*
-  ### Course or Department Websites
+
+### Course or Department Websites
   * **Last Name, First Name. Title of course(italics). Department/School name, Date of creation, URL. Accessed Date.**
   * *Felluga, Dino. Survey of the Literature of England. Purdue U, Aug. 2006, web.ics.purdue.edu/~felluga/241/241/Home.html. Accessed 31 May 2007.*
   * *English Department. Purdue U, 20 Apr. 2009, www.cla.purdue.edu/english/. Accessed 31 May 2007.*
+  
 ## A Page on a Web Site
 * **Last Name, First Name. "Title of Page." Website Name, URL. Accessed Date.**
 * *Lundman, Susan. “How to Make Vegetarian Chili.” eHow, www.ehow.com/how_10727_make-vegetarian-chili.html. Accessed 6 July 2015.*
@@ -32,10 +34,12 @@
 * *Bernstein, Mark. “10 Tips on Writing the Living Web.” A List Apart: For People Who Make Websites, 16 Aug. 2002, alistapart.com/article/writeliving. Accessed 4 May 2009.*
 
 ## An Article in an Online Scholarly Journal
-  ### Article in an Online-only Scholarly Journal
+
+### Article in an Online-only Scholarly Journal
   * **Last Name, First Name. "Name of Article." Title of Publication(italics), vol. #, no. #, Publication Date, URL. Accessed Date.**
   * *Dolby, Nadine. “Research in Youth Culture and Policy: Current Conditions and Future Directions.” Social Work and Society: The International Online-Only Journal, vol. 6, no. 2, 2008, www.socwork.net/sws/article/view/60/362. Accessed 20 May 2009.*
-  ### Article in an Online Scholarly Journal That Also Appears in Print
+  
+### Article in an Online Scholarly Journal That Also Appears in Print
   * **Last Name, First Name. "Name of Article." Title of Publication(italics), vol. #, no. #, Publication Date, pp. #, URL. Accessed Date.**
   * *Wheelis, Mark. “Investigating Disease Outbreaks Under a Protocol to the Biological and Toxin Weapons Convention.” Emerging Infectious Diseases, vol. 6, no. 6, 2000, pp. 595-600, wwwnc.cdc.gov/eid/article/6/6/00-0607_article. Accessed 8 Feb. 2009.*
 
