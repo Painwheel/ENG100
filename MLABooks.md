@@ -51,4 +51,22 @@
   ### Article in a Reference Book (e.g. Encyclopedias, Dictionaries)
   * **"Title of Aritcle." Title of Book, #th ed., Publisher, Publication Date, p. #.**
   * *"Ideology." The American Heritage Dictionary, 3rd ed., Dell, 1997, p. 369.*
+  ### A Multivolume Work
+  * **Last Name. Title of Book. Translated by Full Name, vol. #, Publisher, Publication Date.**
+  * *Quintilian. Institutio Oratoria. Translated by H. E. Butler, vol. 2, Loeb-Harvard UP, 1980.*
+  ### Book Published Before 1900
+  * **Last Name, First Name. Title of Book. City of Publication, Publication Date.**
+  * *Thoreau, Henry David. Excursions. Boston, 1863.*
+  ### The Bible
+  * **Italicize “The Bible” and follow it with the version you are using.**
+  * **The Bible. Name of Specific Bible, Edition, Publisher, Publication Date.**
+  * *The Bible. Authorized King James Version, Oxford UP, 1998.*
+  * *The Bible. The New Oxford Annotated Version, 3rd ed., Oxford UP, 2001.*
+  * *The New Jerusalem Bible. Edited by Susan Jones, Doubleday, 1985.*
+  ### A Pamphlet
+  * **Title of Pamphlet. Publisher, Date of Publication**
+  * *Women's Health: Problems of the Digestive System. American College of Obstetricians and Gynecologists, 2006.*
+  ### Dissertations and Master's Theses
+  * **Last Name, First Name. Title of Theses. Publication Date. Degree-granting institution, document type.**
+  * *Bishop, Karen Lynn. Documenting Institutional Identity: Strategic Writing in the IUPUI Comprehensive Campaign. 2002. Purdue University, PhD dissertation.*
   
